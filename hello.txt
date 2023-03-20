@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+1
+2
+=======
+one
+two
+>>>>>>> 370c979 (First commit from new_branch)
