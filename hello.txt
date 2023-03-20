@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 1
 2
+<<<<<<< Updated upstream
 =======
 one
 two
 >>>>>>> 370c979 (First commit from new_branch)
+=======
+3
+>>>>>>> Stashed changes
